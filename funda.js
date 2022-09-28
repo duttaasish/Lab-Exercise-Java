@@ -22,7 +22,7 @@ var d;
 
 
 // Question 
-// if (2) {
+// if ("0") {
 //     console.log( 'Hello' ); 
 //   }
 
